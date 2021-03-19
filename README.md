@@ -6,7 +6,7 @@ A working template applicaiton for Java/SpringBoot-based GraphQL APIs, created f
 
 ## Part 1
 
-Find the slides at [docs/slides-part1.pdf](https://github.com/dkunnathtw/hello-graphql-ex//docs/slides-part1.pdf).
+Find the slides at [docs/slides-part1.pdf](https://github.com/dkunnathtw/hello-graphql-ex/blob/main/docs/slides-part1.pdf).
 
 # Tags
 
