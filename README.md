@@ -16,4 +16,4 @@ A working template applicaiton for Java/SpringBoot-based GraphQL APIs, created f
 
 # Testing
 
-Access GraphiQL UI at [http://localhost:8080/tools/graphiql](http://localhost:8080/graphiql)
+Access GraphiQL UI at [http://localhost:8080/tools/graphiql](http://localhost:8080/api/graphiql)
