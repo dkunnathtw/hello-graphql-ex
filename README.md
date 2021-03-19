@@ -5,13 +5,19 @@ A working template applicaiton for Java/SpringBoot-based GraphQL APIs, created f
 # Build
 
 ```
-./gradlew bootRun
+./gradlew clean build
 ```
 
 # Run
 
 ```
-./gradlew bootRun
+./gradlew bootRun 
+```
+
+or, following build command above
+
+```
+java -jar build/libs/hello-graphql-1.0.0-SNAPSHOT.jar
 ```
 
 # Testing
