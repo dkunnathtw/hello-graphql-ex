@@ -3,5 +3,11 @@ schema {
 }
 
 type Query {
-    
+    cars: [Car!]!
+}
+
+type Car {
+    vin: ID!
+    make: String
+    model: String
 }
